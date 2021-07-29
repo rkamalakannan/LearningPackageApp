@@ -4,3 +4,4 @@ codeplayground/.project
 *.prefs
 codeplayground/target/test-classes/com/learning/AppTest.class
 *.class
+.vscode/settings.json
